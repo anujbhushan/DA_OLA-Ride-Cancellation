@@ -1,0 +1,14 @@
+To have insight of the data we have performed some exploratory analysis on the data. 
+The main objective of this is to see how different features behave while predicting the trip duration.
+
+Time of the day
+Day of the week
+Pickup and Drop-off Coordinates
+
+Analsysi Includes
+
+Correlation
+Predictive Model Prediction Results
+  --K Nearest Neighbor (KNN) Model
+  --Decision Tree Model
+  
